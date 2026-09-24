@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./readme.png" alt="GlitchHorizon Logo">
+  <img src="./AURORA-23-06-2026.png" alt="Aurora Logo">
 </div>
