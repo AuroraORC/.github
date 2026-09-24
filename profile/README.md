@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./AURORA-23-06-2026.png" alt="Aurora Logo">
+  <img src="./AURORA-23-09-2026.png" alt="Aurora Logo">
 </div>
